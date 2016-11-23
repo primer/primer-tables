@@ -9,15 +9,10 @@ This repository is a module of the full [primer-css][primer] repository.
 
 ## Documentation
 
-You can read more about alerts in the [docs][docs].
-
 <!-- %docs
 title: Tables
-homepage: https://github.com/primer/primer-tables
 status: In review
 -->
-
-### Marketing Tables
 
 Documentation & refactor coming very soon
 
