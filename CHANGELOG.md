@@ -1,5 +1,6 @@
-# HEAD
+# v0.1.2
 
+ * update package version for marketing tables after variable updates - broccolini [github/github@382f55f](https://github.com/github/github/commit/382f55f)
  * @broccolini's feedback - Sophie Shepherd [github/github@f9699ef](https://github.com/github/github/commit/f9699ef)
  * delete all the marketing color variables, start working on buttons! woo! - Sophie Shepherd [github/github@3719e3c](https://github.com/github/github/commit/3719e3c)
 
